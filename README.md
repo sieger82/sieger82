@@ -6,10 +6,12 @@
 - 🌱 I’m currently learning Rust :crab:
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/sieger-v)
 
+![Phineas and Ferb gif](/ca24c156-42ed-4ef2-9de1-7a73b11cc0ae_text.gif)
 
-![Spongebob Gif](/TPtJ.gif)
 
 <!---
+
+![Spongebob Gif](/TPtJ.gif)
 ![Reverse Engineer Gif](/NewFreeJay-max-1mb.gif)
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me ...
