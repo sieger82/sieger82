@@ -2,6 +2,7 @@
 =================
 
 - 👀 I’m interested in pwning mobile devices and reversing mobile apps.
+- 💞️ I love hardware hacking and taking stuff apart in general.
 - 🌱 I’m currently learning Rust :crab:
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/sieger-v)
 
