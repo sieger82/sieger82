@@ -5,9 +5,11 @@
 - 🌱 I’m currently learning Rust :crab:
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/sieger-v)
 
-![Reverse Engineering Gif](/TPtJ.gif)
+
+![Spongebob Gif](/TPtJ.gif)
 
 <!---
+![Reverse Engineer Gif](/NewFreeJay-max-1mb.gif)
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me ...
 -->
